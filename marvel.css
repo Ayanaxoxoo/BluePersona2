@@ -1,0 +1,47 @@
+#one {
+    color: rgb(209, 242, 209);
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background-image: radial-gradient(rgb(90, 90, 173) 20%, rgb(104, 47, 56))
+    
+}
+
+#one:hover {
+    color: pink 
+}
+
+#two {
+    color: rgb(229, 229, 196) 
+}
+
+
+/* img:hover {
+   transform: scale(0.5,0.5)
+}c */
+
+#div1 {
+    background-image: linear-gradient(to right, rgb(94, 138, 94), rgb(210, 210, 138));
+    position: absolute;
+    right:10%;
+    top:20%;
+    width:200px;
+}
+
+ul {
+    list-style: none;
+    text-align: right;
+    background-color: rgb(151, 205, 229)
+}
+
+li {
+    display: inline;
+    margin-left: 100px;
+
+}
+
+input[type="radio"] {
+    accent-color: green;
+    transform: scale(3);
+}
